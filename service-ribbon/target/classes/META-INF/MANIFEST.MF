@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: service-ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: springCloudDemo
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://maven.apache.org/service-ribbon
+Created-By: Maven Integration for Eclipse
+
